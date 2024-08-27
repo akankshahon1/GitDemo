@@ -12,8 +12,13 @@ public class testSample {
         System.out.println(data.get(2));
         System.out.println(data.get(3));
         System.out.println("'hiidhh");
-      
 
+
+
+        System.out.println(data.get(1));
+        System.out.println(data.get(2));
+        System.out.println(data.get(3));
+        System.out.println("'hiidhh");
         // driver.findElement(by.xpath("fdee")).sendKeys(data.get(1));
     }
 }
