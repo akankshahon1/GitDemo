@@ -17,9 +17,8 @@ public class testSample {
         DataDriven d=new DataDriven();
         ArrayList data= d.getdata("Add Profile");
         System.out.println(column);
-        System.out.println(column);
-        System.out.println(column);
-        System.out.println(column);
+        System.out.println(row);
+        println(column);
         System.out.println(column);
         // driver.findElement(by.xpath("fdee")).sendKeys(data.get(1));
     }
