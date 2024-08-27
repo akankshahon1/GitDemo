@@ -14,11 +14,13 @@ public class testSample {
         System.out.println("'hiidhh");
 
 
-
-        System.out.println(data.get(1));
-        System.out.println(data.get(2));
-        System.out.println(data.get(3));
-        System.out.println("'hiidhh");
+        DataDriven d=new DataDriven();
+        ArrayList data= d.getdata("Add Profile");
+        System.out.println(column);
+        System.out.println(column);
+        System.out.println(column);
+        System.out.println(column);
+        System.out.println(column);
         // driver.findElement(by.xpath("fdee")).sendKeys(data.get(1));
     }
 }

@@ -63,6 +63,12 @@ public class DataDriven {
                                 XSSFWorkbook workbook = new XSSFWorkbook(fis);
 
 
+                                System.out.println(column);
+                                System.out.println(column);
+                                System.out.println(column);
+                                System.out.println(column);
+                                System.out.println(column);
+                                System.out.println(column);
                             }
                         }
                     }
